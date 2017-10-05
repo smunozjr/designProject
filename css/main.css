@@ -1,23 +1,166 @@
-.jumbotron {
-    background-color: white;
+
+.container1 {
+    display: flex;
+    justify-content: center;
 }
 
+.form-group {
+    font-size: 18px;
+    font-family: Roboto Slab;
+    color: #39190A;
+    text-transform: uppercase;
+}
+
+/* end navbar CSS */
+
+/* jumbotron/carousel CSS */
+
+div.jumbotron {
+    background-color: white;
+    
+}
 
 .contactInfo {
     background: #F7F7F7;
     height: 50px;
 }
 
-
-
-
-.footer {
-    height: 498px;
-    background-color: #39190A;
+.contactInfo p {
+    font-family: Roboto;
+    font-size: 20px;
+    color: #39190A;
 }
 
+/* end jumbotron/carousel CSS */
+
+/* business bio css */
+
+.container3 {
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+    padding-top: 0;
+    
+}
+
+
+.col-lg-12 p {
+    color: #39190A;
+    font-family: Roboto;
+    text-align: center;
+}
+
+.description1 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+    
+}
+
+.description2 {
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 30px;
+   
+}
+
+.presImg {
+    margin-left: 300px;
+}
+
+ .joinBtn {
+    background: #39190A;
+    margin: 50px 50px;
+    width: 300px;
+    color: white;
+    
+}
+
+
+/* end business bio */
+
+
+/* Upcoming Events CSS */
 .events {
     height: 762px;
     background-color: #F7F7F7;
 
 }
+
+h1 span {
+    text-align: center;
+    color: #39190A;
+    text-transform: uppercase;
+    background: white;
+    padding: 10px 40px;
+}
+
+h1 {
+    justify-content: center;
+    width: 36em;
+    border-bottom: 1px solid #39190A;
+    line-height: 20px;
+    text-align: center;
+    margin: 30px 0px;
+   
+}
+
+.container4{
+    margin-bottom: 100px;
+}
+
+
+.col-md-4 {
+    padding: 30px;
+}
+
+.events p {
+    color: #39190A;
+    font-size: 16px;
+    font-family: Roboto;
+    margin-top: 20px;
+}
+
+/* end Upcoming Events CSS */
+
+
+
+/* footer CSS */
+footer {
+    height: 498px;
+    background-color: #39190A;
+}
+
+footer h2  {
+    color: white;
+    font-family: Roboto;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+
+.footerText {
+    color: white;
+    font-family: Roboto;
+    
+}
+
+footer {
+ padding: 100px 20px;
+
+}
+
+footer span {
+color: white;
+margin: 500px;
+
+ 
+}
+
+.AJ {
+    line-height: 300px;
+}
+
+
+
+
+/* end footer CSS */
