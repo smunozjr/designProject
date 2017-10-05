@@ -8,12 +8,16 @@
     height: 50px;
 }
 
-img {
-    height: 708px;
-}
+
 
 
 .footer {
     height: 498px;
     background-color: #39190A;
+}
+
+.events {
+    height: 762px;
+    background-color: #F7F7F7;
+
 }
